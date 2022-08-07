@@ -1,0 +1,15 @@
+C:\RFP\C_sharp\Day-20-UC1-MoodAnalyser\Day-20-UC1-MoodAnalyser\bin\Debug\net6.0\MoodAnalyserDemo.exe
+C:\RFP\C_sharp\Day-20-UC1-MoodAnalyser\Day-20-UC1-MoodAnalyser\bin\Debug\net6.0\MoodAnalyserDemo.deps.json
+C:\RFP\C_sharp\Day-20-UC1-MoodAnalyser\Day-20-UC1-MoodAnalyser\bin\Debug\net6.0\MoodAnalyserDemo.runtimeconfig.json
+C:\RFP\C_sharp\Day-20-UC1-MoodAnalyser\Day-20-UC1-MoodAnalyser\bin\Debug\net6.0\MoodAnalyserDemo.dll
+C:\RFP\C_sharp\Day-20-UC1-MoodAnalyser\Day-20-UC1-MoodAnalyser\bin\Debug\net6.0\MoodAnalyserDemo.pdb
+C:\RFP\C_sharp\Day-20-UC1-MoodAnalyser\Day-20-UC1-MoodAnalyser\obj\Debug\net6.0\MoodAnalyserDemo.csproj.AssemblyReference.cache
+C:\RFP\C_sharp\Day-20-UC1-MoodAnalyser\Day-20-UC1-MoodAnalyser\obj\Debug\net6.0\MoodAnalyserDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\RFP\C_sharp\Day-20-UC1-MoodAnalyser\Day-20-UC1-MoodAnalyser\obj\Debug\net6.0\MoodAnalyserDemo.AssemblyInfoInputs.cache
+C:\RFP\C_sharp\Day-20-UC1-MoodAnalyser\Day-20-UC1-MoodAnalyser\obj\Debug\net6.0\MoodAnalyserDemo.AssemblyInfo.cs
+C:\RFP\C_sharp\Day-20-UC1-MoodAnalyser\Day-20-UC1-MoodAnalyser\obj\Debug\net6.0\MoodAnalyserDemo.csproj.CoreCompileInputs.cache
+C:\RFP\C_sharp\Day-20-UC1-MoodAnalyser\Day-20-UC1-MoodAnalyser\obj\Debug\net6.0\MoodAnalyserDemo.dll
+C:\RFP\C_sharp\Day-20-UC1-MoodAnalyser\Day-20-UC1-MoodAnalyser\obj\Debug\net6.0\refint\MoodAnalyserDemo.dll
+C:\RFP\C_sharp\Day-20-UC1-MoodAnalyser\Day-20-UC1-MoodAnalyser\obj\Debug\net6.0\MoodAnalyserDemo.pdb
+C:\RFP\C_sharp\Day-20-UC1-MoodAnalyser\Day-20-UC1-MoodAnalyser\obj\Debug\net6.0\MoodAnalyserDemo.genruntimeconfig.cache
+C:\RFP\C_sharp\Day-20-UC1-MoodAnalyser\Day-20-UC1-MoodAnalyser\obj\Debug\net6.0\ref\MoodAnalyserDemo.dll
